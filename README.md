@@ -7,4 +7,4 @@ All you need:
 4. 1x 220Ohm resistor
 5. Potentiometer
 6. 3x button
-
+7. RGB LED
